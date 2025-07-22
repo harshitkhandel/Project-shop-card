@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+  }
+    body{
+      background-color: lightskyblue;
+      height: 100vh;
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    img{
+      width: 2rem;
+      height: 2rem;
+      
+    }
+    .login-bar{
+      height: 4rem;
+      width: 25rem;
+      background-color: ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem
+      
+    }
+    #micro{
+      color: white;
+      background-color: black;
+      
+     
+    }
+    #amazon{
+      color: black;
+      background-color: #FEBD69;
+      border-radius: 6px;
+      border: 2px solid  sandybrown;
+    }
+    #slack{
+      color: black;
+      background-color: white;
+      border-radius: 6px;
+      border: 2px solid  floralwhite;
+    }
+    #facebook{
+      color :white;
+      background-color: #4267B2;
+      border-radius: 6px;
+    }
+    a{
+      text-decoration: none;
+      
+      
+    }
+    #micro>a{
+      color: white;
+     p
+     
+    }
+    #amazon>a{
+      color: black;
+      
+      
+      
+    }
+    #slack>a{
+      color: black;
+     
+      
+    }
+    #facebook>a{
+      color :white;
+      
+      
+    }
+    div>a>span{
+      padding-bottom: "rem;
+     
+    }
+    div>a>span{
+      padding-bottom: 2rem;
+      
+      
+      
+    }
+    div>a>span{
+      padding-bottom: 2rem;
+     
+      
+    }
+    div>a>span{
+      padding-bottom: 2rem;
+      
+      
+    }
+    .login-bar>span{
+      display: inline-block;
+    }
